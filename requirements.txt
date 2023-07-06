@@ -1,0 +1,9 @@
+tensorflow
+tensorflow_hub
+matplotlib
+numpy
+pandas
+seaborn
+sklearn
+imbalanced-learn
+glob2
